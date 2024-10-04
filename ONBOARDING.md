@@ -217,7 +217,7 @@ FarmData2 is built as a set of customizations to [farmOS](https://farmos.org/). 
 
 #### Drupal ####
 
-farmOS runs on top of Drupal. From the FarmData2 perspective this is largely transparent.  As it is discovered that more information is necessary it will be added here.
+farmOS runs on top of Drupal. From the FarmData2 perspective this is largely transparent as it is discovered that more information is necessary it will be added here.
 
 #### drush ####
 
